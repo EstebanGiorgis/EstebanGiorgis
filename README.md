@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Hello, I'm currently using github
+Hello, I'm currently using github.
